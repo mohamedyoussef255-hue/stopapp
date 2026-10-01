@@ -1,0 +1,10 @@
+{
+  "name": "STOP - Safety Tracking & Observation Platform",
+  "description": "منصة تتبع وملاحظة السلامة (STOP) - AI-powered near-miss and safety reporting platform with dynamic bilingual EN/AR support, Pantone theming, voice-to-text, real-time risk assessment, and executive oversight.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
